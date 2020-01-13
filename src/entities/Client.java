@@ -47,9 +47,5 @@ public class Client {
 				+sdf.format(birthDate)
 				+")"
 				+ email;
-	}
-	
-	
-	
-	
+	}	
 }
